@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...i'm a g
 -->
-Now Listening
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r8qjh4tgy8is1w7wy5db3xw9j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=r8qjh4tgy8is1w7wy5db3xw9j&redirect=true)
